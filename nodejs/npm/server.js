@@ -13,7 +13,7 @@ app.get('/', (request, response) => {
   response.send(`<!DOCTYPE html>
 <html>
   <head>
-    <title>Powered By Paketo Buildpacks 5</title>
+    <title>Powered By Paketo Buildpacks 1</title>
   </head>
   <body>
     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
