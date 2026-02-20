@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "echo \"start\" && echo hello && node server.js",
-    "build": "echo error && exit 55"
+    "build": "echo correct"
   },
   "version": "0.0.0"
 }
