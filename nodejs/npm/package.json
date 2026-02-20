@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "echo \"start\" && echo hello && node server.js",
-    "build": "exit 127"
+    "build": "sleep 20 && exit 127"
   },
   "version": "0.0.0"
 }
