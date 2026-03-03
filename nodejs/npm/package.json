@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "echo \"start\" && echo hello && node server.js",
-    "build": "sleep 2 && echo build GOOD"
+    "build": "sleep 2 && echo build GOOD && echo gggooood"
   },
   "version": "0.0.0"
 }
